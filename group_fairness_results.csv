@@ -1,0 +1,5 @@
+Model,Group,Accuracy,TPR,FPR,Count
+Logistic Regression,Female,0.54,0.5652,0.4815,50
+Logistic Regression,Male,0.5094,0.4375,0.381,53
+Neural Network (MLP),Female,0.48,0.5652,0.5926,50
+Neural Network (MLP),Male,0.5094,0.5625,0.5714,53

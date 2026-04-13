@@ -1,0 +1,5 @@
+Version,Group,Accuracy,TPR,FPR,Count
+Before Mitigation,Female,0.54,0.5652,0.4815,50
+Before Mitigation,Male,0.5094,0.4375,0.381,53
+After Mitigation,Female,0.54,0.5652,0.4815,50
+After Mitigation,Male,0.5283,0.6562,0.6667,53
